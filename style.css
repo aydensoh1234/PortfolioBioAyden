@@ -1,0 +1,48 @@
+body {
+ font-family: 'Rowdies', cursive;
+}
+
+.headline {
+  height: 150px;
+  width: 1200px;
+  background: #00FFFF; 
+  color: #1446A0;
+  margin: 50px 50px 0px 50px; 
+  padding: 1px 0px 1px 0px;
+  font-size: 21px;
+  }
+.bio {
+ height: auto;
+ width: auto;
+ background: #006aff ;
+ color: #00f7ff ;
+  margin: 50px 50px 0px 50px; 
+  padding: 30px 30px 30px 30px;
+}
+.tutorial {
+  height: auto;
+  width: auto;
+  background: #00c3ff ;
+  color: #0026ff ;
+ position: absolute;
+ top: auto;
+ font-size: 20px;
+}
+#thing {
+  height: auto;
+  width:300px;
+  top: 0%
+  left: 500px;
+}
+
+.links{
+  background-color:#80E18A;
+  color:#1F1A09;
+  height: 200px;
+  width: 1100px;
+  margin: 0px;
+  padding: 10px 40px 10px 80px;
+  position: absolute;
+  top: 590px;
+  left: 40px;
+}
